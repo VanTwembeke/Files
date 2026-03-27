@@ -6,12 +6,12 @@ This repository contains common project files used across many GitHub repositori
 
 This repository typically includes the following files:
 
-- `README.md` – Overview of the project and its purpose
-- `LICENSE` – Legal license governing usage and distribution
-- `CODE_OF_CONDUCT.md` – Community standards and behavior guidelines
-- `CONTRIBUTING.md` – Guidelines for contributing to the project
-- `SECURITY.md` – Security policy and reporting vulnerabilities
-- `.gitignore` – Specifies files and directories to ignore in version control
+- [README.md](./README.md) – Overview of the project and its purpose
+- [LICENSE](./LICENSE) – Legal license governing usage and distribution
+- [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) – Community standards and behavior guidelines
+- [CONTRIBUTING.md](./CONTRIBUTING.md) – Guidelines for contributing to the project
+- [SECURITY.md](./SECURITY.md) – Security policy and reporting vulnerabilities
+- [.gitignore](./.gitignore) – Specifies files and directories to ignore in version control
 
 ## 📖 README.md
 
